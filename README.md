@@ -2,6 +2,9 @@
 
 Simplify your Ollama workflow! This is a convenient, browser-based UI for managing your local Ollama AI server without needing complex installations or command-line juggling. Everything is packed into a **single HTML file**.
 
+See the interface here: [Ollama Web Manager](https://millionthodin16.github.io/Ollama-Web-Manager/)
+
+
 ![Main Interface Screenshot](https://github.com/user-attachments/assets/4f49e47e-f489-4b1f-b47d-3b6ea3d986c7)
 
 **Packed into this one page, you can easily:**
